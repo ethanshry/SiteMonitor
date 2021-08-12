@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.kotlin.PingerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-12T02:58:26" hostname="ethanshry-desktop" time="0.061">
+  <properties/>
+  <testcase name="testSiteNotFound" classname="test.kotlin.PingerTest" time="0.061"/>
+  <system-out><![CDATA[Exception caught while executing ping on http://www.bing.com: java.lang.IllegalStateException: Unhandled http://www.bing.com/50497777]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,1 @@
+…Exception caught while executing ping on http://www.bing.com: java.lang.IllegalStateException: Unhandled http://www.bing.com/50497777
